@@ -1,0 +1,2 @@
+maior(X, Y) :-X >= Y -> (Z is X, write(Z)));(Z is Y, write(Z)).
+
